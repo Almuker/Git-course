@@ -1,0 +1,16 @@
+git --version = текущая версия
+git --help = базовые возможности
+dir = проверка папки
+cd = change directorial  // ..
+git init = инициализация
+git status = узнать статус
+git add <file> = добавить файл для слежки
+git rm --cached <file> = убрать файл из слежки
+git commit -m "название коммита" = чек пойнт
+master = основная ветка
+git branch = ветка
+git branch название = создание новой ветки
+git branch -D название = удаление ветки
+git checkout название = переход на ветку
+git checkout -b название = создать и сразу перейти на ветку
+git merge название = совмещение веток
